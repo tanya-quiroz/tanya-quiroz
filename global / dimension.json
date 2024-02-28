@@ -1,0 +1,83 @@
+{
+  "xx": {
+    "global": {
+      "dimensions": {
+        "1": {
+          "value": "2px",
+          "type": "dimension",
+          "description": "1st step of global dimensions sequence"
+        },
+        "2": {
+          "value": "4px",
+          "type": "dimension",
+          "description": "2nd step of global dimensions sequence"
+        },
+        "3": {
+          "value": "8px",
+          "type": "dimension",
+          "description": "3rd step of global dimensions sequence"
+        },
+        "4": {
+          "value": "12px",
+          "type": "dimension",
+          "description": "4th step of global dimensions sequence"
+        },
+        "5": {
+          "value": "16px",
+          "type": "dimension",
+          "description": "5th step of global dimensions sequence"
+        },
+        "6": {
+          "value": "20px",
+          "type": "dimension",
+          "description": "6th step of global dimensions sequence"
+        },
+        "7": {
+          "value": "24px",
+          "type": "dimension",
+          "description": "7th step of global dimensions sequence"
+        },
+        "8": {
+          "value": "32px",
+          "type": "dimension",
+          "description": "8th step of global dimensions sequence"
+        },
+        "9": {
+          "value": "44px",
+          "type": "dimension",
+          "description": "9th step of global dimensions sequence"
+        },
+        "10": {
+          "value": "48px",
+          "type": "dimension",
+          "description": "10th step of global dimensions sequence"
+        },
+        "11": {
+          "value": "52px",
+          "type": "dimension",
+          "description": "11th step of global dimensions sequence"
+        },
+        "12": {
+          "value": "60px",
+          "type": "dimension",
+          "description": "12th step of global dimensions sequence"
+        },
+        "13": {
+          "value": "64px",
+          "type": "dimension",
+          "description": "13th step of global dimensions sequence"
+        },
+        "14": {
+          "value": "72px",
+          "type": "dimension",
+          "description": "14th step of global dimensions sequence"
+        },
+        "15": {
+          "value": "80px",
+          "type": "dimension",
+          "description": "15th step of global dimensions sequence"
+        }
+      }
+    }
+  }
+}

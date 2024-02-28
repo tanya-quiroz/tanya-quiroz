@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "global / color",
+    "global / dimension",
+    "global / font",
+    "alias / border",
+    "alias / color-dark",
+    "alias / color-light",
+    "alias / dimension",
+    "alias / font-screen-lg",
+    "components / section-message"
+  ]
+}

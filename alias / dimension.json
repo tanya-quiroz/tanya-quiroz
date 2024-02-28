@@ -1,0 +1,100 @@
+{
+  "xx": {
+    "alias": {
+      "size": {
+        "xxxs": {
+          "value": "{xx.global.dimensions.4}",
+          "type": "sizing",
+          "description": "extra extra extra small size unit"
+        },
+        "xxs": {
+          "value": "{xx.global.dimensions.5}",
+          "type": "sizing",
+          "description": "extra extra small size unit"
+        },
+        "xs": {
+          "value": "{xx.global.dimensions.6}",
+          "type": "sizing",
+          "description": "extra small size unit"
+        },
+        "sm": {
+          "value": "{xx.global.dimensions.7}",
+          "type": "sizing",
+          "description": "small size unit"
+        },
+        "md": {
+          "value": "{xx.global.dimensions.8}",
+          "type": "sizing",
+          "description": "medium size unit"
+        },
+        "lg": {
+          "value": "{xx.global.dimensions.10}",
+          "type": "sizing",
+          "description": "large size unit"
+        },
+        "xl": {
+          "value": "{xx.global.dimensions.11}",
+          "type": "sizing",
+          "description": "extra large size unit"
+        },
+        "xxl": {
+          "value": "{xx.global.dimensions.13}",
+          "type": "sizing",
+          "description": "extra extra large size unit"
+        },
+        "xxxl": {
+          "value": "{xx.global.dimensions.14}",
+          "type": "sizing",
+          "description": "extra extra extra large size unit"
+        }
+      },
+      "spacing": {
+        "xxxs": {
+          "value": "{xx.global.dimensions.1}",
+          "type": "spacing",
+          "description": "extra extra extra small spacing unit"
+        },
+        "xxs": {
+          "value": "{xx.global.dimensions.2}",
+          "type": "spacing",
+          "description": "extra extra small spacing unit"
+        },
+        "xs": {
+          "value": "{xx.global.dimensions.3}",
+          "type": "spacing",
+          "description": "extra small spacing unit"
+        },
+        "sm": {
+          "value": "{xx.global.dimensions.4}",
+          "type": "spacing",
+          "description": "small spacing unit"
+        },
+        "md": {
+          "value": "{xx.global.dimensions.5}",
+          "type": "spacing",
+          "description": "medium spacing unit"
+        },
+        "lg": {
+          "value": "{xx.global.dimensions.7}",
+          "type": "spacing",
+          "description": "large spacing unit"
+        },
+        "xl": {
+          "value": "{xx.global.dimensions.8}",
+          "type": "spacing",
+          "description": "extra large spacing unit"
+        },
+        "xxl": {
+          "value": "{xx.global.dimensions.10}",
+          "type": "spacing",
+          "description": "extra extra small spacing unit"
+        },
+        "xxxl": {
+          "value": "{xx.global.dimensions.13}",
+          "type": "spacing",
+          "description": "extra extra extra small spacing unit"
+        }
+      }
+    }
+  }
+}

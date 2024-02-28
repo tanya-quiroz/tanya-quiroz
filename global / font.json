@@ -1,0 +1,194 @@
+{
+  "xx": {
+    "global": {
+      "font": {
+        "fontFamilies": {
+          "display": {
+            "value": "Inter Display",
+            "type": "fontFamilies",
+            "description": "Font family for display fonts"
+          },
+          "content": {
+            "value": "Inter",
+            "type": "fontFamilies",
+            "description": "Font family for content fonts"
+          }
+        },
+        "fontWeight": {
+          "black": {
+            "value": "Black",
+            "type": "fontWeights",
+            "description": "heaviest weight for fonts"
+          },
+          "bold": {
+            "value": "Bold",
+            "type": "fontWeights",
+            "description": "bold weight for fonts"
+          },
+          "semiBold": {
+            "value": "Semi Bold",
+            "type": "fontWeights",
+            "description": "semibold weight for fonts"
+          },
+          "default": {
+            "value": "Medium",
+            "type": "fontWeights",
+            "description": "default weight for fonts"
+          }
+        },
+        "fontSize": {
+          "xxxs": {
+            "value": "12",
+            "type": "fontSizes",
+            "description": "extra extra extra small font size unit"
+          },
+          "xxs": {
+            "value": "14",
+            "type": "fontSizes",
+            "description": "extra extra small font size unit"
+          },
+          "xs": {
+            "value": "16",
+            "type": "fontSizes",
+            "description": "extra small font size unit"
+          },
+          "sm": {
+            "value": "20",
+            "type": "fontSizes",
+            "description": "small font size unit"
+          },
+          "md": {
+            "value": "24",
+            "type": "fontSizes",
+            "description": "medium font size unit"
+          },
+          "ml": {
+            "value": "28",
+            "type": "fontSizes",
+            "description": "medium large font size unit"
+          },
+          "lg": {
+            "value": "32",
+            "type": "fontSizes",
+            "description": "large font size unit"
+          },
+          "xl": {
+            "value": "40",
+            "type": "fontSizes",
+            "description": "extra large font size unit"
+          },
+          "xxl": {
+            "value": "80",
+            "type": "fontSizes",
+            "description": "extra extra large font size unit"
+          },
+          "xxxl": {
+            "value": "100",
+            "type": "fontSizes",
+            "description": "extra extra extra large font size unit"
+          }
+        },
+        "letterSpacing": {
+          "xs": {
+            "value": "-0.16",
+            "type": "letterSpacing",
+            "description": "extra small letter spacing unit"
+          },
+          "sm": {
+            "value": "0",
+            "type": "letterSpacing",
+            "description": "small letter spacing unit"
+          },
+          "md": {
+            "value": "0.16",
+            "type": "letterSpacing",
+            "description": "medium letter spacing unit"
+          },
+          "lg": {
+            "value": "0.08",
+            "type": "letterSpacing",
+            "description": "large letter spacing unit"
+          }
+        },
+        "lineHeight": {
+          "xxxs": {
+            "value": "20",
+            "type": "lineHeights",
+            "description": "extra extra extra small line height unit"
+          },
+          "xxs": {
+            "value": "22",
+            "type": "lineHeights",
+            "description": "extra extra small line height unit"
+          },
+          "xs": {
+            "value": "24",
+            "type": "lineHeights",
+            "description": "extra small line height unit"
+          },
+          "sm": {
+            "value": "26",
+            "type": "lineHeights",
+            "description": "small line height unit"
+          },
+          "md": {
+            "value": "32",
+            "type": "lineHeights",
+            "description": "medium line height unit"
+          },
+          "ml": {
+            "value": "40",
+            "type": "lineHeights",
+            "description": "medium large line height unit"
+          },
+          "lg": {
+            "value": "48",
+            "type": "lineHeights",
+            "description": "large line height unit"
+          },
+          "xl": {
+            "value": "56",
+            "type": "lineHeights",
+            "description": "extra large line height unit"
+          },
+          "xxl": {
+            "value": "100",
+            "type": "lineHeights",
+            "description": "extra extra large line height unit"
+          },
+          "xxxl": {
+            "value": "120",
+            "type": "lineHeights",
+            "description": "extra extra extra large line height unit"
+          }
+        },
+        "paragraphSpacing": {
+          "sm": {
+            "value": "16",
+            "type": "paragraphSpacing",
+            "description": "small paragraph spacing unit"
+          }
+        },
+        "textCase": {
+          "none": {
+            "value": "none",
+            "type": "textCase",
+            "description": "default text case of none"
+          }
+        },
+        "textDecoration": {
+          "none": {
+            "value": "none",
+            "type": "textDecoration",
+            "description": "text decoration of none"
+          },
+          "underline": {
+            "value": "underline",
+            "type": "textDecoration",
+            "description": "Text decoration for displaying textlinks"
+          }
+        }
+      }
+    }
+  }
+}

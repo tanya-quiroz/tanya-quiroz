@@ -1,0 +1,75 @@
+{
+  "xx": {
+    "component": {
+      "sectionMessage": {
+        "success": {
+          "background": {
+            "value": "{xx.alias.color.purpose.successHighEmphasis}",
+            "type": "color",
+            "description": "background color for success section messages "
+          },
+          "text": {
+            "value": "{xx.alias.color.purpose.onSuccess}",
+            "type": "color",
+            "description": "text color for success section messages"
+          },
+          "icon": {
+            "value": "{xx.alias.color.purpose.onSuccess}",
+            "type": "color",
+            "description": "icon color for success section messages"
+          }
+        },
+        "warning": {
+          "background": {
+            "value": "{xx.alias.color.purpose.warningHighEmphasis}",
+            "type": "color",
+            "description": "background color for warning section messages"
+          },
+          "text": {
+            "value": "{xx.alias.color.purpose.onWarning}",
+            "type": "color",
+            "description": "text color for warning section messages"
+          },
+          "icon": {
+            "value": "{xx.alias.color.purpose.onWarning}",
+            "type": "color",
+            "description": "icon color for warning section messages"
+          }
+        },
+        "height": {
+          "min": {
+            "value": "{xx.alias.size.md}",
+            "type": "sizing",
+            "description": "min height of section messages"
+          }
+        },
+        "spacing": {
+          "innerY": {
+            "value": "{xx.alias.spacing.md}",
+            "type": "spacing",
+            "description": "top and bottom inner spacing for section messages"
+          },
+          "innerX": {
+            "value": "{xx.alias.spacing.sm}",
+            "type": "spacing",
+            "description": "left and right inner spacing for section messages"
+          },
+          "gap": {
+            "value": "{xx.alias.spacing.xs}",
+            "type": "spacing",
+            "description": "gap for separating elements in section message"
+          }
+        }
+      }
+    },
+    "comp": {
+      "sectionMessage": {
+        "borderRadius": {
+          "value": "{xx.alias.border.radius.md}",
+          "type": "borderRadius",
+          "description": "border radius for section messages"
+        }
+      }
+    }
+  }
+}

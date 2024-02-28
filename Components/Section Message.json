@@ -1,0 +1,86 @@
+{
+  "xx": {
+    "component": {
+      "sectionMessage": {
+        "success": {
+          "background": {
+            "value": "{xx.alias.color.purpose.successHighEmphasis}",
+            "type": "color",
+            "parent": "Components/Section Message",
+            "description": "background color for success section messages"
+          },
+          "text": {
+            "value": "{xx.alias.color.purpose.onSuccess}",
+            "type": "color",
+            "parent": "Components/Section Message",
+            "description": "text color for success section messages"
+          },
+          "icon": {
+            "value": "{xx.alias.color.purpose.onSuccess}",
+            "type": "color",
+            "parent": "Components/Section Message",
+            "description": "icon color for success section messages"
+          }
+        },
+        "warning": {
+          "background": {
+            "value": "{xx.alias.color.purpose.warningHighEmphasis}",
+            "type": "color",
+            "parent": "Components/Section Message",
+            "description": "background color for warning section messages"
+          },
+          "text": {
+            "value": "{xx.alias.color.purpose.onWarning}",
+            "type": "color",
+            "parent": "Components/Section Message",
+            "description": "text color for warning section messages"
+          },
+          "icon": {
+            "value": "{xx.alias.color.purpose.onWarning}",
+            "type": "color",
+            "parent": "Components/Section Message",
+            "description": "icon color for warning section messages"
+          }
+        },
+        "height": {
+          "min": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Components/Section Message",
+            "description": "min height of section messages"
+          }
+        },
+        "spacing": {
+          "innerY": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Components/Section Message",
+            "description": "top and bottom inner spacing for section messages"
+          },
+          "innerX": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Components/Section Message",
+            "description": "left and right inner spacing for section messages"
+          },
+          "gap": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Components/Section Message",
+            "description": "gap for separating elements in section message"
+          }
+        }
+      }
+    },
+    "comp": {
+      "sectionMessage": {
+        "borderRadius": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Components/Section Message",
+          "description": "border radius for section messages"
+        }
+      }
+    }
+  }
+}

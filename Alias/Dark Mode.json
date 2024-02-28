@@ -1,0 +1,468 @@
+{
+  "xx": {
+    "alias": {
+      "color": {
+        "primary": {
+          "interaction": {
+            "value": "{xx.global.color.mint.200}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.200}",
+            "description": "Color that indicates interactions"
+          },
+          "onInteraction": {
+            "value": "{xx.global.color.mint.900}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.900}",
+            "description": "color for elements that are placed on interactive background colors"
+          },
+          "brand": {
+            "value": "{xx.global.color.mint.600}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.600}",
+            "description": "background color for primary brand elements"
+          },
+          "onBrand": {
+            "value": "{xx.global.color.mint.100}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.100}",
+            "description": "color for elements that are placed on brand background color"
+          }
+        },
+        "purpose": {
+          "infoHighEmphasis": {
+            "value": "{xx.global.color.violet.400}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with informational purpose of high emphasis"
+          },
+          "infoLowEmphasis": {
+            "value": "{xx.global.color.violet.200}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with informational purpose of low emphasis"
+          },
+          "onInfo": {
+            "value": "{xx.global.color.violet.800}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements placed on informational purpose background"
+          },
+          "successHighEmphasis": {
+            "value": "{xx.global.color.green.400}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with success purpose of high emphasis"
+          },
+          "successLowEmphasis": {
+            "value": "{xx.global.color.green.200}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with success purpose of low emphasis"
+          },
+          "onSuccess": {
+            "value": "{xx.global.color.green.800}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements placed on success purpose background"
+          },
+          "warningHighEmphasis": {
+            "value": "{xx.global.color.gold.200}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with warning purpose of high emphasis"
+          },
+          "warningLowEmphasis": {
+            "value": "{xx.global.color.gold.400}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with warning purpose of low emphasis"
+          },
+          "onWarning": {
+            "value": "{xx.global.color.gold.800}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements placed on warning purpose background"
+          },
+          "criticalHighEmphasis": {
+            "value": "{xx.global.color.red.400}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with critical purpose of high emphasis"
+          },
+          "criticalLowEmphasis": {
+            "value": "{xx.global.color.red.500}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements with critical purpose of low emphasis"
+          },
+          "onCritical": {
+            "value": "{xx.global.color.red.900}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements placed on critical purpose background"
+          }
+        },
+        "background": {
+          "body": {
+            "value": "{xx.global.color.neutral.900}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Body background color"
+          },
+          "highEmphasis": {
+            "value": "{xx.global.color.neutral.700}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Background Color for components with high emphasis"
+          },
+          "lowEmphasis": {
+            "value": "{xx.global.color.neutral.800}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "background color for elements with a low emphasis"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{xx.global.color.neutral.50}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Default text color"
+          },
+          "inverted": {
+            "value": "{xx.global.color.neutral.900}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Inverted text color"
+          },
+          "subtle": {
+            "value": "{xx.global.color.neutral.400}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Text color in subtle weight"
+          }
+        },
+        "state": {
+          "disable": {
+            "value": "{xx.global.color.neutral.300}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "background color for disabled elements"
+          },
+          "onDisable": {
+            "value": "{xx.global.color.neutral.700}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for elements that are palced on disabled background color"
+          },
+          "hover": {
+            "value": "#ededed29",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Background color for state overlay of a hovered element"
+          },
+          "focus": {
+            "value": "#ededed29",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Background color for state overlay of a focused element"
+          },
+          "press": {
+            "value": "#ededed14",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "Background color for state overlay of a pressed element"
+          },
+          "select": {
+            "value": "{xx.global.color.mint.100}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.100}",
+            "description": "background color for selected elements"
+          },
+          "onSelect": {
+            "value": "{xx.global.color.mint.600}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.600}",
+            "description": "Foreground color for selected elements"
+          },
+          "selectInverted": {
+            "value": "{xx.global.color.mint.600}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.600}",
+            "description": "Inverted background color for selected elements"
+          },
+          "onSelectInverted": {
+            "value": "{xx.global.color.mint.100}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "oldValue": "{xx.global.color.mint.100}",
+            "description": "inverted color for elements on selected backgrounds"
+          }
+        },
+        "border": {
+          "subtle": {
+            "value": "{xx.global.color.neutral.700}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "subtle border color"
+          },
+          "medium": {
+            "value": "{xx.global.color.neutral.500}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "medium border color"
+          },
+          "heavy": {
+            "value": "{xx.global.color.neutral.200}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "heavy border color"
+          },
+          "focusOutline": {
+            "value": "{xx.global.color.violet.500}",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "color for default focus outline"
+          }
+        }
+      },
+      "border": {
+        "width": {
+          "md": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "medium border thickness"
+          },
+          "sm": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "small thickness for borders"
+          }
+        },
+        "radius": {
+          "sm": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "small border radius"
+          },
+          "md": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "medium border radius"
+          },
+          "lg": {
+            "value": "[object Object]",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "large border radius"
+          }
+        }
+      },
+      "size": {
+        "xxxs": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra extra small size unit"
+        },
+        "xxs": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra small size unit"
+        },
+        "xs": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra small size unit"
+        },
+        "sm": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "small size unit"
+        },
+        "md": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "medium size unit"
+        },
+        "lg": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "large size unit"
+        },
+        "xl": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra large size unit"
+        },
+        "xxl": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra large size unit"
+        },
+        "xxxl": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra extra large size unit"
+        }
+      },
+      "spacing": {
+        "xxxs": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra extra small spacing unit"
+        },
+        "xxs": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra small spacing unit"
+        },
+        "xs": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra small spacing unit"
+        },
+        "sm": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "small spacing unit"
+        },
+        "md": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "medium spacing unit"
+        },
+        "lg": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "large spacing unit"
+        },
+        "xl": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra large spacing unit"
+        },
+        "xxl": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra small spacing unit"
+        },
+        "xxxl": {
+          "value": "[object Object]",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "extra extra extra small spacing unit"
+        }
+      }
+    },
+    "component": {
+      "sectionMessage": {
+        "success": {
+          "background": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "background color for success section messages"
+          },
+          "text": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "text color for success section messages"
+          },
+          "icon": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "icon color for success section messages"
+          }
+        },
+        "warning": {
+          "background": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "background color for warning section messages"
+          },
+          "text": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "text color for warning section messages"
+          },
+          "icon": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Alias/Dark Mode",
+            "description": "icon color for warning section messages"
+          }
+        },
+        "height": {
+          "min": {
+            "value": "0",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "min height of section messages"
+          }
+        },
+        "spacing": {
+          "innerY": {
+            "value": "0",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "top and bottom inner spacing for section messages"
+          },
+          "innerX": {
+            "value": "0",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "left and right inner spacing for section messages"
+          },
+          "gap": {
+            "value": "0",
+            "type": "number",
+            "parent": "Alias/Dark Mode",
+            "description": "gap for separating elements in section message"
+          }
+        }
+      }
+    },
+    "comp": {
+      "sectionMessage": {
+        "borderRadius": {
+          "value": "0",
+          "type": "number",
+          "parent": "Alias/Dark Mode",
+          "description": "border radius for section messages"
+        }
+      }
+    }
+  }
+}

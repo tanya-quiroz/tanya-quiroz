@@ -1,0 +1,472 @@
+{
+  "xx": {
+    "global": {
+      "color": {
+        "mint": {
+          "50": {
+            "value": "#f6fefb",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 50"
+          },
+          "100": {
+            "value": "#c5f8ea",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 100"
+          },
+          "200": {
+            "value": "#55ebce",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 200"
+          },
+          "300": {
+            "value": "#00d4b6",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 300"
+          },
+          "400": {
+            "value": "#0ab29a",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 400"
+          },
+          "500": {
+            "value": "#188675",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 500"
+          },
+          "600": {
+            "value": "#1a6a5d",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 600"
+          },
+          "700": {
+            "value": "#19544b",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 700"
+          },
+          "800": {
+            "value": "#174039",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 800"
+          },
+          "900": {
+            "value": "#142c28",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color mint of weight 900"
+          }
+        },
+        "gold": {
+          "50": {
+            "value": "#fffcf5",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 50"
+          },
+          "100": {
+            "value": "#fdecc3",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 100"
+          },
+          "200": {
+            "value": "#f0d36b",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 200"
+          },
+          "300": {
+            "value": "#d4bb5f",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 300"
+          },
+          "400": {
+            "value": "#b19d51",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 400"
+          },
+          "500": {
+            "value": "#84773f",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 500"
+          },
+          "600": {
+            "value": "#685e34",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 600"
+          },
+          "700": {
+            "value": "#534b2b",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 700"
+          },
+          "800": {
+            "value": "#3e3922",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 800"
+          },
+          "900": {
+            "value": "#2b2819",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color gold of weight 900"
+          }
+        },
+        "red": {
+          "50": {
+            "value": "#fffbfb",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 50"
+          },
+          "100": {
+            "value": "#ffe9e5",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 100"
+          },
+          "200": {
+            "value": "#ffc7bf",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 200"
+          },
+          "300": {
+            "value": "#fca69c",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 300"
+          },
+          "400": {
+            "value": "#f37a73",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 400"
+          },
+          "500": {
+            "value": "#ba5a56",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 500"
+          },
+          "600": {
+            "value": "#934846",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 600"
+          },
+          "700": {
+            "value": "#743a3a",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 700"
+          },
+          "800": {
+            "value": "#572d2d",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 800"
+          },
+          "900": {
+            "value": "#3b2020",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color red of weight 900"
+          }
+        },
+        "green": {
+          "50": {
+            "value": "#f7fbeb",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 50"
+          },
+          "100": {
+            "value": "#dff3dc",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 100"
+          },
+          "200": {
+            "value": "#b0e1aa",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 200"
+          },
+          "300": {
+            "value": "#7fce7a",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 300"
+          },
+          "400": {
+            "value": "#69ad65",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 400"
+          },
+          "500": {
+            "value": "#51834e",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 500"
+          },
+          "600": {
+            "value": "#42673f",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 600"
+          },
+          "700": {
+            "value": "#365233",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 700"
+          },
+          "800": {
+            "value": "#2a3e28",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 800"
+          },
+          "900": {
+            "value": "#1e2b1d",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color green of weight 900"
+          }
+        },
+        "neutral": {
+          "50": {
+            "value": "#fcfcfc",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 50"
+          },
+          "100": {
+            "value": "#ededed",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 100"
+          },
+          "200": {
+            "value": "#d4d4d4",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 200"
+          },
+          "300": {
+            "value": "#bcbcbc",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 300"
+          },
+          "400": {
+            "value": "#9e9e9e",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 400"
+          },
+          "500": {
+            "value": "#777777",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 500"
+          },
+          "600": {
+            "value": "#5e5e5e",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 600"
+          },
+          "700": {
+            "value": "#4b4b4b",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 700"
+          },
+          "800": {
+            "value": "#393939",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 800"
+          },
+          "900": {
+            "value": "#282828",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color neutral of weight 900"
+          }
+        },
+        "violet": {
+          "50": {
+            "value": "#fcfcfe",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 50"
+          },
+          "100": {
+            "value": "#ecedfa",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 100"
+          },
+          "200": {
+            "value": "#d0d2f3",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 200"
+          },
+          "300": {
+            "value": "#b6b8eb",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 300"
+          },
+          "400": {
+            "value": "#9598e0",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 400"
+          },
+          "500": {
+            "value": "#686fc8",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 500"
+          },
+          "600": {
+            "value": "#57579c",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 600"
+          },
+          "700": {
+            "value": "#49457a",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 700"
+          },
+          "800": {
+            "value": "#39345a",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 800"
+          },
+          "900": {
+            "value": "#29253c",
+            "type": "color",
+            "parent": "Global/Brand",
+            "description": "global color viola of weight 900"
+          }
+        }
+      },
+      "dimensions": {
+        "1": {
+          "value": "2",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "1st step of global dimensions sequence"
+        },
+        "2": {
+          "value": "4",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "2nd step of global dimensions sequence"
+        },
+        "3": {
+          "value": "8",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "3rd step of global dimensions sequence"
+        },
+        "4": {
+          "value": "12",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "4th step of global dimensions sequence"
+        },
+        "5": {
+          "value": "16",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "5th step of global dimensions sequence"
+        },
+        "6": {
+          "value": "20",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "6th step of global dimensions sequence"
+        },
+        "7": {
+          "value": "24",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "7th step of global dimensions sequence"
+        },
+        "8": {
+          "value": "32",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "8th step of global dimensions sequence"
+        },
+        "9": {
+          "value": "44",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "9th step of global dimensions sequence"
+        },
+        "10": {
+          "value": "48",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "10th step of global dimensions sequence"
+        },
+        "11": {
+          "value": "52",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "11th step of global dimensions sequence"
+        },
+        "12": {
+          "value": "60",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "12th step of global dimensions sequence"
+        },
+        "13": {
+          "value": "64",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "13th step of global dimensions sequence"
+        },
+        "14": {
+          "value": "72",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "14th step of global dimensions sequence"
+        },
+        "15": {
+          "value": "80",
+          "type": "number",
+          "parent": "Global/Brand",
+          "description": "15th step of global dimensions sequence"
+        }
+      }
+    }
+  }
+}

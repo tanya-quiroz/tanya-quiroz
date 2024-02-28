@@ -8,6 +8,10 @@
     "alias / color-light",
     "alias / dimension",
     "alias / font-screen-lg",
-    "components / section-message"
+    "components / section-message",
+    "Global/Brand",
+    "Alias/Light Mode",
+    "Alias/Dark Mode",
+    "Components/Section Message"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "button": {
+    "value": {
+      "fontFamily": "{sonic}",
+      "fontSize": "{s}"
+    },
+    "type": "typography"
+  }
+}

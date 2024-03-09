@@ -1,0 +1,9 @@
+{
+  "button": {
+    "value": {
+      "fontFamily": "{sega}",
+      "fontSize": "{m}"
+    },
+    "type": "typography"
+  }
+}

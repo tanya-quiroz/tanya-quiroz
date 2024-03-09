@@ -1,0 +1,26 @@
+{
+  "sega": {
+    "value": "IBM Plex Sans",
+    "type": "fontFamilies"
+  },
+  "diablo": {
+    "value": "Arima Madurai",
+    "type": "fontFamilies"
+  },
+  "sonic": {
+    "value": "Helvetica",
+    "type": "fontFamilies"
+  },
+  "m": {
+    "value": "16px",
+    "type": "fontSizes"
+  },
+  "s": {
+    "value": "14px",
+    "type": "fontSizes"
+  },
+  "lg": {
+    "value": "20px",
+    "type": "fontSizes"
+  }
+}

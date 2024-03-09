@@ -1,0 +1,9 @@
+{
+  "button": {
+    "value": {
+      "fontFamily": "{diablo}",
+      "fontSize": "{lg}"
+    },
+    "type": "typography"
+  }
+}

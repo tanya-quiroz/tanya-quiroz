@@ -3,6 +3,19 @@
     "global",
     "font/sega",
     "font/diablo",
-    "font/sonic"
+    "font/sonic",
+    "Alias/Dark Mode",
+    "Alias/Light Mode",
+    "Components/Section Message",
+    "Global/Brand",
+    "alias / border",
+    "alias / color-dark",
+    "alias / color-light",
+    "alias / dimension",
+    "alias / font-screen-lg",
+    "components / section-message",
+    "global / color",
+    "global / dimension",
+    "global / font"
   ]
 }

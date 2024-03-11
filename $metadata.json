@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
+    "global / color",
+    "global / dimension",
+    "global / font",
     "global",
     "font/sega",
     "font/diablo",
@@ -13,9 +16,6 @@
     "alias / color-light",
     "alias / dimension",
     "alias / font-screen-lg",
-    "components / section-message",
-    "global / color",
-    "global / dimension",
-    "global / font"
+    "components / section-message"
   ]
 }

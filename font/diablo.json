@@ -5,5 +5,13 @@
       "fontSize": "{lg}"
     },
     "type": "typography"
+  },
+  "action-primary-default": {
+    "value": "{xx.global.color.red.600}",
+    "type": "color"
+  },
+  "onaction-primary": {
+    "value": "{xx.global.color.red.100}",
+    "type": "color"
   }
 }

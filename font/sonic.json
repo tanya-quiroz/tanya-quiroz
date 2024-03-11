@@ -2,8 +2,16 @@
   "button": {
     "value": {
       "fontFamily": "{sonic}",
-      "fontSize": "{s}"
+      "fontSize": "{xx.global.font.fontSize.xxxs}"
     },
     "type": "typography"
+  },
+  "action-primary-default": {
+    "value": "{xx.global.color.violet.500}",
+    "type": "color"
+  },
+  "onaction-primary": {
+    "value": "{xx.global.color.violet.200}",
+    "type": "color"
   }
 }

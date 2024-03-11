@@ -7,12 +7,15 @@
     },
     "selectedTokenSets": {
       "global": "source",
-      "font/sega": "enabled"
+      "font/sega": "enabled",
+      "global / color": "source",
+      "global / dimension": "source",
+      "global / font": "source"
     },
-    "group": "font",
     "$figmaCollectionId": "VariableCollectionId:5:10",
     "$figmaModeId": "5:0",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "font"
   },
   {
     "id": "845ae61e8cea42c68e18de96f0439289d439292e",
@@ -22,12 +25,15 @@
     },
     "selectedTokenSets": {
       "global": "source",
-      "font/diablo": "enabled"
+      "font/diablo": "enabled",
+      "global / color": "source",
+      "global / dimension": "source",
+      "global / font": "source"
     },
-    "group": "font",
     "$figmaCollectionId": "VariableCollectionId:5:10",
     "$figmaModeId": "5:1",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "font"
   },
   {
     "id": "0ca418cdc935d5e6281dd6186211d23e8240eee4",
@@ -46,7 +52,10 @@
     },
     "selectedTokenSets": {
       "global": "source",
-      "font/sonic": "enabled"
+      "font/sonic": "enabled",
+      "global / color": "source",
+      "global / dimension": "source",
+      "global / font": "source"
     },
     "group": "font"
   }
